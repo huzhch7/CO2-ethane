@@ -2,8 +2,8 @@
 
 Calculating physical properties of C2H6-CO2 binary mixture.
 
- - To use install CoolProp for Python (https://github.com/CoolProp/CoolProp) 
- - Make sure Python has connected with Matlab (https://www.mathworks.com/help/matlab/ref/pyenv.html)
+ - To use install CoolProp for Python (www.coolprop.org) 
+ - Make sure Python has connected with Matlab (www.mathworks.com/help/matlab/ref/pyenv.html)
  - Two examples are given in the examples folder. 
  - For the details of the model development, please refer to the paper.
 
