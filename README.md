@@ -15,7 +15,7 @@ Calculating physical properties of C2H6-CO2 binary mixture.
 If you use this code in your academic paper, pleae cite XXXXXX.
 
 
-References:
+## References:
 
 Bell, Ian H., et al. "Pure and pseudo-pure fluid thermophysical property evaluation and the open-source thermophysical property library CoolProp." Industrial & engineering chemistry research 53.6 (2014): 2498-2508.
 
