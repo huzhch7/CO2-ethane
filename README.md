@@ -14,7 +14,7 @@ Calculating physical properties of C2H6-CO2 binary mixture.
 
 If you use this code in your academic paper, pleae include a citation for [Hu (2021)](https://www.sciencedirect.com/science/article/pii/S0017931021006475):
 
-Hu Zhan-Chao, 2021. Pseudo-boiling and concentration gradient in an enclosed supercritical binary mixture. International Journal of Heat and Mass Transfer 177: 121544. DOI: [10.1016/j.ijheatmasstransfer.2021.121544](https://doi.org/10.1016/j.ijheatmasstransfer.2021.121544).
+Hu, Zhan-Chao, 2021. Pseudo-boiling and concentration gradient in an enclosed supercritical binary mixture. International Journal of Heat and Mass Transfer 177: 121544. DOI: [10.1016/j.ijheatmasstransfer.2021.121544](https://doi.org/10.1016/j.ijheatmasstransfer.2021.121544).
 
 ## References:
 
