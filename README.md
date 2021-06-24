@@ -7,13 +7,14 @@ Calculating physical properties of C2H6-CO2 binary mixture.
  - Install CoolProp for Python (www.coolprop.org) 
  - Make sure Python has connected with Matlab (www.mathworks.com/help/matlab/ref/pyenv.html)
  - Two examples are given in the examples folder. 
- - For the details of the model development, please refer to [Hu (2019)](https://www.sciencedirect.com/science/article/pii/S0017931021006475).
+ - For the details of the model development, please refer to [Hu (2021)](https://www.sciencedirect.com/science/article/pii/S0017931021006475).
 
 
 ## Citation:
 
-If you use this code in your academic paper, pleae include a citation for [Hu (2019)](https://www.sciencedirect.com/science/article/pii/S0017931021006475).
+If you use this code in your academic paper, pleae include a citation for [Hu (2021)](https://www.sciencedirect.com/science/article/pii/S0017931021006475):
 
+Hu Zhan-Chao, 2021. Pseudo-boiling and concentration gradient in an enclosed supercritical binary mixture. International Journal of Heat and Mass Transfer 177: 121544. DOI: [10.1016/j.ijheatmasstransfer.2021.121544](https://doi.org/10.1016/j.ijheatmasstransfer.2021.121544).
 
 ## References:
 
