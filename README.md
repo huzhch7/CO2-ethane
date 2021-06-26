@@ -1,6 +1,6 @@
 # CO2-ethane
 
-Calculating physical properties of C2H6-CO2 binary mixture.
+Calculating physical properties of supercritical C2H6-CO2 binary mixture.
 
 ## Usage:
 
